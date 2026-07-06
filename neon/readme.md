@@ -8,7 +8,7 @@
 
 > **Insert the architecture image below**
 
-![Neon Architecture](images/neon-architecture.png)
+![Neon Architecture](images/hero.webp)
 
 ---
 
